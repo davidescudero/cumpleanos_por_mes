@@ -1,0 +1,15 @@
+C:\Users\poter\Documents\Ejercicos .Net\cumpleanos\bin\Debug\net7.0\cumpleanos.exe
+C:\Users\poter\Documents\Ejercicos .Net\cumpleanos\bin\Debug\net7.0\cumpleanos.deps.json
+C:\Users\poter\Documents\Ejercicos .Net\cumpleanos\bin\Debug\net7.0\cumpleanos.runtimeconfig.json
+C:\Users\poter\Documents\Ejercicos .Net\cumpleanos\bin\Debug\net7.0\cumpleanos.dll
+C:\Users\poter\Documents\Ejercicos .Net\cumpleanos\bin\Debug\net7.0\cumpleanos.pdb
+C:\Users\poter\Documents\Ejercicos .Net\cumpleanos\obj\Debug\net7.0\cumpleanos.csproj.AssemblyReference.cache
+C:\Users\poter\Documents\Ejercicos .Net\cumpleanos\obj\Debug\net7.0\cumpleanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poter\Documents\Ejercicos .Net\cumpleanos\obj\Debug\net7.0\cumpleanos.AssemblyInfoInputs.cache
+C:\Users\poter\Documents\Ejercicos .Net\cumpleanos\obj\Debug\net7.0\cumpleanos.AssemblyInfo.cs
+C:\Users\poter\Documents\Ejercicos .Net\cumpleanos\obj\Debug\net7.0\cumpleanos.csproj.CoreCompileInputs.cache
+C:\Users\poter\Documents\Ejercicos .Net\cumpleanos\obj\Debug\net7.0\cumpleanos.dll
+C:\Users\poter\Documents\Ejercicos .Net\cumpleanos\obj\Debug\net7.0\refint\cumpleanos.dll
+C:\Users\poter\Documents\Ejercicos .Net\cumpleanos\obj\Debug\net7.0\cumpleanos.pdb
+C:\Users\poter\Documents\Ejercicos .Net\cumpleanos\obj\Debug\net7.0\cumpleanos.genruntimeconfig.cache
+C:\Users\poter\Documents\Ejercicos .Net\cumpleanos\obj\Debug\net7.0\ref\cumpleanos.dll
